@@ -1,11 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="sosenetsistemasdeapoyoServingRelationship">
+    id="id-e654c35744bd48f98ec255b94a8b2165">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_sosenet.xml#sosenet"/>
-  <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_sistemasdeapoyo.xml#sistemasdeapoyo"/>
+      href="BusinessProcess_vidalaboral.xml#vidalaboral"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_afiliacin.xml#afiliacin"/>
 </archimate:ServingRelationship>
