@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7fa942527cb1472da8df7dbceca50f2c">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cuentaajena-agrario.xml#cuentaajena-agrario"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_relacioneslaborales.xml#relacioneslaborales"/>
+</archimate:CompositionRelationship>

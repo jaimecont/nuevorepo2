@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d3712b4003e54bdba6dd056a46794a0d">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cuentapropia-conveniosespeciales.xml#cuentapropia-conveniosespeciales"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_relacioneslaborales.xml#relacioneslaborales"/>
+</archimate:CompositionRelationship>
