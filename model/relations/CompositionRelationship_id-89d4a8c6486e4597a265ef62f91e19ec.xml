@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-89d4a8c6486e4597a265ef62f91e19ec">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_afiliacincotizacinyrecaudacinenperiodovoluntario.xml#afiliacincotizacinyrecaudacinenperiodovoluntario"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_gestininterna.xml#gestininterna"/>
+</archimate:CompositionRelationship>

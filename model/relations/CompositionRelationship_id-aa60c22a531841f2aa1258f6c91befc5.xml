@@ -1,11 +1,11 @@
-<archimate:ServingRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="mutuasgestineconmicaServingRelationship">
+    id="id-aa60c22a531841f2aa1258f6c91befc5">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_mutuas.xml#mutuas"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_intervencindelegadatgss.xml#intervencindelegadatgss"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_gestineconmica.xml#gestineconmica"/>
-</archimate:ServingRelationship>
+</archimate:CompositionRelationship>

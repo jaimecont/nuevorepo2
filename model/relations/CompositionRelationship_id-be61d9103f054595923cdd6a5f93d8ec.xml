@@ -1,11 +1,11 @@
-<archimate:ServingRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="liquidacinmutuasgestinfondodereservaServingRelationship">
+    id="id-be61d9103f054595923cdd6a5f93d8ec">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_liquidacinmutuas.xml#liquidacinmutuas"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ordenacineimpugnaciones.xml#ordenacineimpugnaciones"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_gestinfondodereserva.xml#gestinfondodereserva"/>
-</archimate:ServingRelationship>
+</archimate:CompositionRelationship>
