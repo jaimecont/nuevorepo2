@@ -1,10 +1,10 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="cierresmensualcontrolderecaudacinServingRelationship">
+    id="id-f3d8f88c3e0d4f1b8a9713012e8353fa">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_cierresmensual.xml#cierresmensual"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_rgimengeneral.xml#rgimengeneral"/>
   <target
       xsi:type="archimate:BusinessService"
       href="BusinessService_controlderecaudacin.xml#controlderecaudacin"/>

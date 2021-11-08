@@ -1,10 +1,10 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="arquitecturasldcontrolderecaudacinServingRelationship">
+    id="id-b8e9e7e866ab442882e11afbccfaf921">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_arquitecturasld.xml#arquitecturasld"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_red.xml#red"/>
   <target
       xsi:type="archimate:BusinessService"
       href="BusinessService_controlderecaudacin.xml#controlderecaudacin"/>
