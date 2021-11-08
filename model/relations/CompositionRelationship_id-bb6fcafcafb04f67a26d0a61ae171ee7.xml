@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bb6fcafcafb04f67a26d0a61ae171ee7">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_autorizaciones-gestindeusuarios.xml#autorizaciones-gestindeusuarios"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_red.xml#red"/>
+</archimate:CompositionRelationship>

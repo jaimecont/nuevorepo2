@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ab4031b36b49404899712d63ddafdd9d">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_rgimengeneralyartistas-toreros.xml#rgimengeneralyartistas-toreros"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_rgimengeneral.xml#rgimengeneral"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-31f080761a9b440e88f4ba2f458320a4">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8795a231078e42229e6f35a7991af582.xml#id-8795a231078e42229e6f35a7991af582"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_controlderecaudacin.xml#controlderecaudacin"/>
+</archimate:ServingRelationship>
