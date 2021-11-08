@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="conceptosretribuidosabonadoselementoscomunesafiliacinAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_conceptosretribuidosabonados.xml#conceptosretribuidosabonados"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_elementoscomunesafiliacin.xml#elementoscomunesafiliacin"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="controlrecaniveldeltrabajadorempleadoshogar-representantescomercioAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_controlrecaniveldeltrabajador.xml#controlrecaniveldeltrabajador"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_empleadoshogar-representantescomercio.xml#empleadoshogar-representantescomercio"/>
+</archimate:AssociationRelationship>

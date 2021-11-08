@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="gestininafvidalaboralServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestininaf.xml#gestininaf"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_vidalaboral.xml#vidalaboral"/>
+</archimate:ServingRelationship>

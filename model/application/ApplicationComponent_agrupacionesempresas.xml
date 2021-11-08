@@ -1,0 +1,179 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AGRUPACIONES EMPRESAS"
+    id="agrupacionesempresas">
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Santiago José Rubio López"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Área funcional"
+      value="AFILIACIÓN"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Medio"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Manuel García García"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Complejidad del código"
+      value="Alta"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Código ROCHADE"
+      value="AFCC"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Herramientas"
+      value="Ninguna"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Entre 6 y 10"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Arturo Herranz Jiménez"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Mainframe"/>
+  <properties
+      key="Descripción"
+      value="Esta unidad migrable gestiona la base de datos AOASCUPU, que se encarga de la gestión de las agrupaciones de empresas"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="Sí"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Tipo de impresión"
+      value="N/A"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Versión"
+      value="15/07/2020"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Generación de informes"
+      value="N/A"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Varios"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Nombre"
+      value="AGRUPACIONES EMPRESAS"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Punto de acceso"
+      value="Intranet"/>
+  <properties
+      key="Nº usuarios"
+      value="Más de 1.000.000"/>
+  <properties
+      key="Coordinador de área"
+      value="Carlos Herran Añón"/>
+  <properties
+      key="Logs"
+      value="Repositorio de logs"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="Sí"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="NA"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Gestor de calidad"
+      value="TPAI"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Baja"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Baja"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+</archimate:ApplicationComponent>

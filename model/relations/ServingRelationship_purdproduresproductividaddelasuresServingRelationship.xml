@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="purdproduresproductividaddelasuresServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_purdprodures.xml#purdprodures"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_productividaddelasures.xml#productividaddelasures"/>
+</archimate:ServingRelationship>

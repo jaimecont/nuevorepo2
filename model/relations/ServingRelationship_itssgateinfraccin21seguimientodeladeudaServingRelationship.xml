@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="itssgateinfraccin21seguimientodeladeudaServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_itssgateinfraccin21.xml#itssgateinfraccin21"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_seguimientodeladeuda.xml#seguimientodeladeuda"/>
+</archimate:ServingRelationship>

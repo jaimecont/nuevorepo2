@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="prototipoalertasrecaudacinAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_prototipo.xml#prototipo"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_alertasrecaudacin.xml#alertasrecaudacin"/>
+</archimate:AssociationRelationship>

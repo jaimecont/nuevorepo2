@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="gestindeudaseguimientovaejecutiva-gestindettulosejecutivosServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestindeuda.xml#gestindeuda"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_seguimientovaejecutiva-gestindettulosejecutivos.xml#seguimientovaejecutiva-gestindettulosejecutivos"/>
+</archimate:ServingRelationship>

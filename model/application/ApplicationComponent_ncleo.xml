@@ -1,0 +1,191 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NÚCLEO"
+    id="ncleo">
+  <properties
+      key="Framework de lógica de negocio"
+      value="Mainframe"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="Sí"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Área funcional"
+      value="CONTROL DE RECAUDACIÓN"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="María Luisa Castillo Lavado"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Medio"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Punto de acceso"
+      value="Otros"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Media"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Tipo de impresión"
+      value="N/A"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Más de 100.000"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Descripción"
+      value="Relación de servios comunes que proporcionan la relación con afiliación, la prevalidación al usuario, cálculo de los tramos y la liquidación, distintos tipos de consultas, etc."/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 10.001 y 100.000"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Logs"
+      value="No se generan logs"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="31"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Crítico"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="18/07/2007"/>
+  <properties
+      key="Complejidad del código"
+      value="Media"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Ninguno"/>
+  <properties
+      key="Gestor de calidad"
+      value="Ninguna"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Concepción Iglesias Martín"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Versión"
+      value="09/07/2021"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 10.001 y 100.000"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="101"/>
+  <properties
+      key="Nombre"
+      value="NÚCLEO"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Gema Álvarez Fernández"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Coordinador de área"
+      value="Mercedes Nocete Casado"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Ambos"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Herramientas"
+      value="JCL"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Generación de informes"
+      value="N/A"/>
+  <properties
+      key="Visibilidad"
+      value="Privada"/>
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 10.001 y 100.000"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Muy alto"/>
+  <properties
+      key="Facilidad de uso"
+      value="Difícil de usar. Las pantallas son complejas e induce a algunos errores"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Más de 15"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="Sí"/>
+  <properties
+      key="Código ROCHADE"
+      value="CRTH"/>
+  <properties
+      key="Portales"
+      value="No"/>
+</archimate:ApplicationComponent>

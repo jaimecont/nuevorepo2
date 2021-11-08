@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="informesdatosaotrosorganismosentdevoluciningresosindebidosAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_informesdatosaotrosorganismosent.xml#informesdatosaotrosorganismosent"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_devoluciningresosindebidos.xml#devoluciningresosindebidos"/>
+</archimate:AssociationRelationship>

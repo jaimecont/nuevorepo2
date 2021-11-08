@@ -1,0 +1,191 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REP OFICIO"
+    id="repoficio">
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Nula"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Punto de acceso"
+      value="Otros"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Nombre"
+      value="REP OFICIO"/>
+  <properties
+      key="Área funcional"
+      value="CONTROL DE RECAUDACIÓN"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="No"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Entre 1 y 5"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="0"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Ninguno"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Herramientas"
+      value="Ninguna"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 1 y 10"/>
+  <properties
+      key="Tipo de impresión"
+      value="N/A"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="María Luisa Castillo Lavado"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Bajo"/>
+  <properties
+      key="Visibilidad"
+      value="Privada"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="No"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Bajo"/>
+  <properties
+      key="Descripción"
+      value="Gestión de rectificaciones fuera de plazo de oficio"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Batch"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="Sí"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Gema Álvarez Fernández"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural"/>
+  <properties
+      key="Nivel de deuda técnica"
+      value="Bajo"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Mainframe"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Baja"/>
+  <properties
+      key="Gestor Documental"
+      value="No"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Medio"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="18/07/2007"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="No"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="Sí"/>
+  <properties
+      key="Logs"
+      value="No se generan logs"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Generación de informes"
+      value="Listados"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="Sí"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="0"/>
+  <properties
+      key="Gestor de calidad"
+      value="Ninguna"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Código ROCHADE"
+      value="CRTH"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="Sí"/>
+  <properties
+      key="Coordinador de área"
+      value="Mercedes Nocete Casado"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Concepción Iglesias Martín"/>
+  <properties
+      key="Complejidad del código"
+      value="Alta"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Versión"
+      value="09/07/2021"/>
+</archimate:ApplicationComponent>

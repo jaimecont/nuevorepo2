@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="alertasrecaudacincrth-clculoServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_alertasrecaudacin.xml#alertasrecaudacin"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_crth-clculo.xml#crth-clculo"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="batchsldrecaudacin-sldServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_batchsld.xml#batchsld"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_recaudacin-sld.xml#recaudacin-sld"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="gestinhogarcuentaajena-hogarServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestinhogar.xml#gestinhogar"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cuentaajena-hogar.xml#cuentaajena-hogar"/>
+</archimate:ServingRelationship>

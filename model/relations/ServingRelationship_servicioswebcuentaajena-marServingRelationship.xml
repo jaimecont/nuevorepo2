@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="servicioswebcuentaajena-marServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_serviciosweb.xml#serviciosweb"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cuentaajena-mar.xml#cuentaajena-mar"/>
+</archimate:ServingRelationship>

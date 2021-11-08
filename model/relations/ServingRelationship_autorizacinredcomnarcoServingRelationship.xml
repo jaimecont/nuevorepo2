@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="autorizacinredcomnarcoServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_autorizacinredcomn.xml#autorizacinredcomn"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_arco.xml#arco"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="certificadocpprocedimientosespecialesyseguimientodevavoluntaria-obligacionesServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_certificadocp.xml#certificadocp"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_procedimientosespecialesyseguimientodevavoluntaria-obligaciones.xml#procedimientosespecialesyseguimientodevavoluntaria-obligaciones"/>
+</archimate:ServingRelationship>

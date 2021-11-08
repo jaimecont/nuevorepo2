@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="regularizacinartistastaurinoscontrolderecaudacinServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_regularizacinartistastaurinos.xml#regularizacinartistastaurinos"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_controlderecaudacin.xml#controlderecaudacin"/>
+</archimate:ServingRelationship>

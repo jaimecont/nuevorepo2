@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="sldncleoredproldomiciliacinencuentanaturalAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sldncleoredprol.xml#sldncleoredprol"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_domiciliacinencuentanatural.xml#domiciliacinencuentanatural"/>
+</archimate:AssociationRelationship>

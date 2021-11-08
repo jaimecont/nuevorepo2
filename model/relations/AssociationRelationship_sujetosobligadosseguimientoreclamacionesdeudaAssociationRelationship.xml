@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="sujetosobligadosseguimientoreclamacionesdeudaAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sujetosobligados.xml#sujetosobligados"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_seguimientoreclamacionesdeuda.xml#seguimientoreclamacionesdeuda"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="reaseguroexcesoprdidasaegiServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_reaseguroexcesoprdidas.xml#reaseguroexcesoprdidas"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_aegi.xml#aegi"/>
+</archimate:ServingRelationship>
