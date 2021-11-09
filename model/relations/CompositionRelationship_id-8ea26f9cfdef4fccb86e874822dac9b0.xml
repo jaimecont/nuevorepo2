@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8ea26f9cfdef4fccb86e874822dac9b0">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_arco.xml#arco"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_controlrecaudacin.xml#controlrecaudacin"/>
+</archimate:CompositionRelationship>
