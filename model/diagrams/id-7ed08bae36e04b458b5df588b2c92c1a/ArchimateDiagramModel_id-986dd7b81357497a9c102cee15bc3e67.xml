@@ -5148,7 +5148,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-19c085fb8c85432fab128ccd36b8e901"
-      targetConnections="id-049ca69e36cf470ea0f8a88f0b2328ac id-d89261da717a4b86ae4f20f153f84583 id-248cd3f9200b4398a4ab06459c593ecb id-e06a884d9bd5469dadb1e33762139a51 id-a579c9716ab146668ef15db439f2b352">
+      targetConnections="id-049ca69e36cf470ea0f8a88f0b2328ac id-d89261da717a4b86ae4f20f153f84583 id-248cd3f9200b4398a4ab06459c593ecb id-e06a884d9bd5469dadb1e33762139a51 id-720afef57c0b478c95afe6e476c086a2">
     <bounds
         x="421"
         y="3972"
@@ -5282,7 +5282,7 @@
       id="id-3f7426b69e6a460b92204c3fdc19df44">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a579c9716ab146668ef15db439f2b352"
+        id="id-720afef57c0b478c95afe6e476c086a2"
         source="id-3f7426b69e6a460b92204c3fdc19df44"
         target="id-19c085fb8c85432fab128ccd36b8e901">
       <bendpoints
