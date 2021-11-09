@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a0c879b7000f421583c479d652d6c372">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_trmitedeejecucin-cnyugesyresponsables.xml#trmitedeejecucin-cnyugesyresponsables"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_va4.xml#va4"/>
+</archimate:CompositionRelationship>

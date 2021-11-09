@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-68075c6050e54798b6c5e184cf48273c">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_seguimientovaejecutiva-expedientesvaejecutiva.xml#seguimientovaejecutiva-expedientesvaejecutiva"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_va4.xml#va4"/>
+</archimate:CompositionRelationship>

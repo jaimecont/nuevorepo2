@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4c227ff5762d4875a160c2b5d0e41951">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_trmitedeejecucin-trmitedeenajenacin.xml#trmitedeejecucin-trmitedeenajenacin"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_va4.xml#va4"/>
+</archimate:CompositionRelationship>

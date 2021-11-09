@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e6bc302ad09c45e087e04178f2d80f55">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_devoluciones-gestindedevoluciones.xml#devoluciones-gestindedevoluciones"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_horizontales.xml#horizontales"/>
+</archimate:CompositionRelationship>

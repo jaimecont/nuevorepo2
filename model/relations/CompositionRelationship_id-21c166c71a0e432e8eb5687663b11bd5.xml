@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-21c166c71a0e432e8eb5687663b11bd5">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_procedimientosespecialesyseguimientodevavoluntaria-saldosdeacreedores.xml#procedimientosespecialesyseguimientodevavoluntaria-saldosdeacreedores"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_va2.xml#va2"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1f38d443ed1a4c93bfdc9096dd122309">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_aplazamientos-seguimientodeaplazamientos.xml#aplazamientos-seguimientodeaplazamientos"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_horizontales.xml#horizontales"/>
+</archimate:CompositionRelationship>
