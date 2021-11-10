@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c6889e0a60fa4d2db13bbc2340474826">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_otras.xml#otras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_swebagenciatributaria.xml#swebagenciatributaria"/>
+</archimate:ServingRelationship>

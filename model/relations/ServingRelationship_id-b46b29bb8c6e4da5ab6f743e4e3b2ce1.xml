@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b46b29bb8c6e4da5ab6f743e4e3b2ce1">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturalyotras.xml#naturalyotras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_suspal.xml#suspal"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6a8db3c508254ac69c29a6e8838d3642">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_javapros.xml#javapros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_controlrecaudacinatencinciudadano.xml#controlrecaudacinatencinciudadano"/>
+</archimate:ServingRelationship>

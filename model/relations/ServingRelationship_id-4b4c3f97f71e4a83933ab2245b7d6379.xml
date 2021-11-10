@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4b4c3f97f71e4a83933ab2245b7d6379">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_natural.xml#natural"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_generacindeudaespeciales.xml#generacindeudaespeciales"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-12563c0b905f4ff28c9225ec1b7f60bb">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_teradata.xml#teradata"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_afiliacinbi.xml#afiliacinbi"/>
+</archimate:ServingRelationship>

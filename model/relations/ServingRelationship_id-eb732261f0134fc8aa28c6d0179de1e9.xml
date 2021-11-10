@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-eb732261f0134fc8aa28c6d0179de1e9">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_natural.xml#natural"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_regularizacinartistastaurinos.xml#regularizacinartistastaurinos"/>
+</archimate:ServingRelationship>

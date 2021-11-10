@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a1483704869e4649996a84c39d2d13f5">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturalycobol.xml#naturalycobol"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_informacinpatrimonial.xml#informacinpatrimonial"/>
+</archimate:ServingRelationship>

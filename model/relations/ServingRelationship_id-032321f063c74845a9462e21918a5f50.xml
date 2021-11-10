@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-032321f063c74845a9462e21918a5f50">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_otras.xml#otras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_registrocontratos.xml#registrocontratos"/>
+</archimate:ServingRelationship>

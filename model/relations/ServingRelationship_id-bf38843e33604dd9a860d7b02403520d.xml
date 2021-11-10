@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bf38843e33604dd9a860d7b02403520d">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_javapros.xml#javapros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sistemaredremesas.xml#sistemaredremesas"/>
+</archimate:ServingRelationship>

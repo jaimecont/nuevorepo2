@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-93b438f67ecc4ed1a2f903c92fc7e2a6">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturalyotras.xml#naturalyotras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_consultasafiliados.xml#consultasafiliados"/>
+</archimate:ServingRelationship>

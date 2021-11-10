@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-23a655ff9f8047cf9c26d5e32f49f1b5">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_javapros.xml#javapros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_buznconsultasysugerencias.xml#buznconsultasysugerencias"/>
+</archimate:ServingRelationship>

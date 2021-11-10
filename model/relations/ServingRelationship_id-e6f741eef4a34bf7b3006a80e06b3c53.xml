@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-e6f741eef4a34bf7b3006a80e06b3c53">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturaljavapros.xml#naturaljavapros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_pagodepensionescentralizada.xml#pagodepensionescentralizada"/>
+</archimate:ServingRelationship>

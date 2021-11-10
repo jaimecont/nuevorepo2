@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1531ebbee8e24aafb4c4e67df18e4a84">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_otras.xml#otras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_swebdgtvidalaboraltelefnica.xml#swebdgtvidalaboraltelefnica"/>
+</archimate:ServingRelationship>

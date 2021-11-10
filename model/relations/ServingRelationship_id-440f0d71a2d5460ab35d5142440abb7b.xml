@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-440f0d71a2d5460ab35d5142440abb7b">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_javaprosyotras.xml#javaprosyotras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cuestionariosdecalidadyservicio.xml#cuestionariosdecalidadyservicio"/>
+</archimate:ServingRelationship>

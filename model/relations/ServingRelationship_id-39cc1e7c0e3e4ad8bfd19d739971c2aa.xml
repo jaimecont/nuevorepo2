@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-39cc1e7c0e3e4ad8bfd19d739971c2aa">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturaljavapros.xml#naturaljavapros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_transaccionesred.xml#transaccionesred"/>
+</archimate:ServingRelationship>

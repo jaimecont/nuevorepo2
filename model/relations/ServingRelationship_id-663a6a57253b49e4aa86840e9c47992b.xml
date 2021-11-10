@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-663a6a57253b49e4aa86840e9c47992b">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_javanopros.xml#javanopros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_subastas.xml#subastas"/>
+</archimate:ServingRelationship>

@@ -48,9 +48,8 @@
         source="id-8e8b1aef751a4243b31ab74fee5367c6"
         target="id-ae5c86e881044856836d9fdd02e474b6">
       <bendpoints
-          startX="12"
           startY="-63"
-          endX="-492"
+          endX="-504"
           endY="81"/>
       <bendpoints
           startX="504"
