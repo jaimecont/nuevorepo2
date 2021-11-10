@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fbbba9804aa04f71a024cf22ef86fa0f">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_javanopros.xml#javanopros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_controldepagosdedocumentosr.xml#controldepagosdedocumentosr"/>
+</archimate:ServingRelationship>

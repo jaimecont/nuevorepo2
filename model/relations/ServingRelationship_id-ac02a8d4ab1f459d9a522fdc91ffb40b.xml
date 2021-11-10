@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ac02a8d4ab1f459d9a522fdc91ffb40b">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturalyotras.xml#naturalyotras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_compensacionesdeducciones.xml#compensacionesdeducciones"/>
+</archimate:ServingRelationship>

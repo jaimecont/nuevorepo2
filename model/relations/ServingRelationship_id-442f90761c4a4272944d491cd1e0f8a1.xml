@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-442f90761c4a4272944d491cd1e0f8a1">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturalyotras.xml#naturalyotras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_vidalaboralcuentascotizacin.xml#vidalaboralcuentascotizacin"/>
+</archimate:ServingRelationship>

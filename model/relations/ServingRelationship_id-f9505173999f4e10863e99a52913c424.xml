@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f9505173999f4e10863e99a52913c424">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturalycobol.xml#naturalycobol"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_embargomasivovehculos.xml#embargomasivovehculos"/>
+</archimate:ServingRelationship>

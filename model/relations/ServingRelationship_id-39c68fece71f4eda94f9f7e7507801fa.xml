@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-39c68fece71f4eda94f9f7e7507801fa">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturaljavapros.xml#naturaljavapros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_autorizacinredcomn.xml#autorizacinredcomn"/>
+</archimate:ServingRelationship>

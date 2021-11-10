@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d5ae0cc8cc3d4674ba5ce9b8ae66d98d">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturaljavapros.xml#naturaljavapros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_controlrecaudacinportalimportss.xml#controlrecaudacinportalimportss"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-19a360f6f6a84b1d8b21fe68dfe06234">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_naturaljavapros.xml#naturaljavapros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_seguroescolar.xml#seguroescolar"/>
+</archimate:ServingRelationship>

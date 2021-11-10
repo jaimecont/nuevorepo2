@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0bab395bc39f4b9fb675ba898f7c7cfb">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_otras.xml#otras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_procesosrpa.xml#procesosrpa"/>
+</archimate:ServingRelationship>

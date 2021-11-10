@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f90c9518892e4d74aa43483ef5253e25">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_otras.xml#otras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_swebrina.xml#swebrina"/>
+</archimate:ServingRelationship>
