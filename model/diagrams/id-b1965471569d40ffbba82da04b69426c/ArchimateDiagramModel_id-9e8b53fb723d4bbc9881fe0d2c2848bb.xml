@@ -100,8 +100,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d4b2e564f6264c0d8012782652732e27"
-      targetConnections="id-088be09fab274a82b90026ee08e94f9e">
+      id="id-d4b2e564f6264c0d8012782652732e27">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3054b3d7be7342c2a82df6bdc5ed8647"
@@ -584,26 +583,5 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_ravp.xml#ravp"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7a51731c03f24e1fb02a0e96e46aa8b5">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-088be09fab274a82b90026ee08e94f9e"
-        source="id-7a51731c03f24e1fb02a0e96e46aa8b5"
-        target="id-d4b2e564f6264c0d8012782652732e27">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-d7164d54713340b193afb75025bea3e7.xml#id-d7164d54713340b193afb75025bea3e7"/>
-    </sourceConnections>
-    <bounds
-        x="1440"
-        y="293"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_tc2normalizado.xml#tc2normalizado"/>
   </children>
 </archimate:ArchimateDiagramModel>
