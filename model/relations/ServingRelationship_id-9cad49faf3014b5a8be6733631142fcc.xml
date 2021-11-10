@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9cad49faf3014b5a8be6733631142fcc">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_gestineconmica.xml#gestineconmica"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_aegi.xml#aegi"/>
+</archimate:ServingRelationship>
