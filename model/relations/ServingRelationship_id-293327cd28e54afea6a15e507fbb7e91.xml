@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-293327cd28e54afea6a15e507fbb7e91">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_transversal.xml#transversal"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_coordinacinyproyectos.xml#coordinacinyproyectos"/>
+</archimate:ServingRelationship>

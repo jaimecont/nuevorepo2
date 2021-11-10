@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0f8124dadeeb47cfb2d1fe13241cc6ed">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_controlderecaudacin.xml#controlderecaudacin"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_coordinacinyproyectos.xml#coordinacinyproyectos"/>
+</archimate:CompositionRelationship>

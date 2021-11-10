@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1f2376b822db45ed9dc12cf45143d79b">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_ordenacindepagosygestinfondodereserva.xml#ordenacindepagosygestinfondodereserva"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_gestinfondodereserva.xml#gestinfondodereserva"/>
+</archimate:CompositionRelationship>

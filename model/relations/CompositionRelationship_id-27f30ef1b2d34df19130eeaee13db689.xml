@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-27f30ef1b2d34df19130eeaee13db689">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_presupuestosestudioseconmicosyestadsticas.xml#presupuestosestudioseconmicosyestadsticas"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_gestininterna.xml#gestininterna"/>
+</archimate:CompositionRelationship>

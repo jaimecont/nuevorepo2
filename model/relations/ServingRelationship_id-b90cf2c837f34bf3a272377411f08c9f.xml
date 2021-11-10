@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b90cf2c837f34bf3a272377411f08c9f">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_gestinfondodereserva.xml#gestinfondodereserva"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_aegi.xml#aegi"/>
+</archimate:ServingRelationship>

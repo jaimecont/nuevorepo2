@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2a804664f40e4af9a37fd45b2d01429a">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_crth-transaccionesdelgestor.xml#crth-transaccionesdelgestor"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_rgimengeneral.xml#rgimengeneral"/>
+</archimate:CompositionRelationship>

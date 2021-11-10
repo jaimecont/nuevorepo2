@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0fed0b4e6e564f13be888d1367389cd0">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_recaudacin-sld.xml#recaudacin-sld"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_red.xml#red"/>
+</archimate:CompositionRelationship>

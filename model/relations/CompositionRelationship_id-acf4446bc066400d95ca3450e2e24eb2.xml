@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-acf4446bc066400d95ca3450e2e24eb2">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_gestindelpatrimonio.xml#gestindelpatrimonio"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_gestineconmica.xml#gestineconmica"/>
+</archimate:CompositionRelationship>

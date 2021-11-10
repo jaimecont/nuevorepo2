@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-311018c8388c4a9e979728e5a38421f7">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_transversalatodoafiliacin.xml#transversalatodoafiliacin"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_afiliacin.xml#afiliacin"/>
+</archimate:ServingRelationship>
